@@ -6,15 +6,25 @@ to a nonprofit. This is the load-bearing structure a chapter, a collaborator, or
 lawyer needs to see. It is distinct from the corpus (which forms a man) and the system
 (which runs his walk); this governs the *organization* those live inside.
 
-## What belongs here (curate from the quarry, converted to Markdown)
-- **Creed** — the canonical text (currently only in `README.md`); file the source.
-- **Constitution & bylaws** — there are **multiple conflicting versions** in the quarry
-  (`CONSTITUTION AND BYLAWS...docx`, `Research/constitution-and-bylaws.pdf`,
-  `GAP/GAP_Institutional_Constitution.docx`, `GAP/GAP_Institutional_Bylaws.docx`).
-  Reconcile to one canonical document; note what was chosen and why.
-- **Organizational structure** — `org/CORE ORGANIZATIONAL STRUCTURE.docx`, `org/ORGANIZATIONAL STRUCTURE.docx`.
-- **Chapter formation** — `Research/Chapter-Bylaws-Template.pdf`, `Research/How to Start a Fraternity.docx`.
-- **Nonprofit path** — `Marketing/Making Gamma Alpha Pi a nonprofit.docx`.
+## What is curated here now
+
+The constitution/bylaws reconciliation is done. The canonical generation (the
+Leadership-Council-ratified Institutional pair, v1.0) is filed; the older versions were
+sorted out and left in the quarry.
+
+- **`constitution.md`** — the Institutional Constitution v1.0 (the soul: nature, mission,
+  governance, sacred commitments, constraints on leaders, amendment, dissolution).
+- **`bylaws.md`** — the Institutional Bylaws v1.0 (the bones: council, compensation
+  safeguards, chapters, membership ops, finance, mission-integrity, succession).
+- **`creed.md`** — the canonical creed and its first-person affirmation form.
+- **`legal-structure.md`** — the three-entity architecture, which documents are canonical
+  vs archive, and the **open questions for counsel** (501(c)(10) vs (c)(7); who owns the IP
+  Company; a trust layer or not; naming and actual filings).
+
+Still to curate when the need is live: **chapter formation** kit
+(`Research/Chapter-Bylaws-Template.pdf`, `Research/How to Start a Fraternity.docx`) and the
+**nonprofit path** (`Marketing/Making Gamma Alpha Pi a nonprofit.docx`). The remaining core
+work is legal, not editorial (see `legal-structure.md`).
 
 ## Non-negotiables
 - **One canonical version per document.** The failure mode here is five drafts and no

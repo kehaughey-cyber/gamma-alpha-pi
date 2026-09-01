@@ -54,7 +54,15 @@ state changes.
 - Open reconciliations surfaced by the Forge doc: life arc is 3-stage (son→brother→
   father) in README vs 6-stage (Son/Brother/Husband/Father/King/Elder) in the Forge;
   new vocabulary to adopt or not (Forge/Mine/Bloom metallurgy, Wounded Lion / Excuse
-  Maker). `GAP_Seek_Ye_First_Master.docx` (~8k words) not yet read.
+  Maker). `GAP_Seek_Ye_First_Master.docx` reclassified as funnel content (Website/GTM).
+- **Governance curated (2026-09-01):** constitution/bylaws reconciliation done.
+  Canonical = the Leadership-Council Institutional pair v1.0 → `governance/constitution.md`
+  and `governance/bylaws.md` (+ `creed.md`, `legal-structure.md`). The 22k-word
+  "Constitution and Bylaws (Karnea 1968/2020)" is a **collegiate fraternity's** document,
+  not GAP's — archive, do not use. The two `org/…ORGANIZATIONAL STRUCTURE` docs are
+  ChatGPT brainstorms, superseded. Remaining governance work is legal, not editorial:
+  `legal-structure.md` lists the open questions for counsel (501(c)(10) vs (c)(7); who
+  owns the for-profit IP Company / trust layer; entity names; actual filings).
 
 ## Immediate next actions
 

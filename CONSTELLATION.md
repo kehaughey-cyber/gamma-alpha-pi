@@ -97,18 +97,21 @@ instruments filed.** The quarry holds the actual worksheets a man fills in.
 | 3-Day Reset | `Books/3 day/*` (book, workbook, challenge) | instrument / product | 🔴 gap |
 | Modular Meal System | `Books/Nutritian/*` | instrument / product (peripheral) | 📦 likely archive |
 
-### 5. Governance & legal — new lane (no home in repo yet)
+### 5. Governance & legal — `governance/` (constitution/bylaws reconciled)
 
-A collaborator and any nonprofit/chapter work will need these. There is no
-`governance/` folder yet.
+The versions were sorted into three generations; the canonical pair is curated in, the
+rest classified. Remaining core work is legal, not editorial.
 
-| Object | Quarry source | Status |
-|---|---|---|
-| Creed | `Creed.docx` (canonical creed already in `README.md`) | 🟡 text is in README; source doc not filed |
-| Constitution & bylaws | `CONSTITUTION AND BYLAWS OF GAMMA ALPHA PI FRATERNITY.docx`, `Research/constitution-and-bylaws.pdf`, `GAP/GAP_Institutional_Constitution.docx`, `GAP/GAP_Institutional_Bylaws.docx` | 🔴 gap (multiple versions — reconcile) |
-| Chapter bylaws template | `Research/Chapter-Bylaws-Template.pdf` | 🔴 gap |
-| Org structure | `org/CORE ORGANIZATIONAL STRUCTURE.docx`, `org/ORGANIZATIONAL STRUCTURE.docx` | 🔴 gap |
-| Nonprofit path | `Marketing/Making Gamma Alpha Pi a nonprofit.docx` | 🔴 gap |
+| Object | In repo | Quarry source | Status |
+|---|---|---|---|
+| Institutional Constitution v1.0 | `governance/constitution.md` | `GAP/GAP_Institutional_Constitution.docx` | ✅ canonical, curated |
+| Institutional Bylaws v1.0 | `governance/bylaws.md` | `GAP/GAP_Institutional_Bylaws.docx` | ✅ canonical, curated |
+| Creed (+ affirmation form) | `governance/creed.md` | `Creed.docx` + Constitution §1.4 | ✅ curated |
+| Legal structure + open questions | `governance/legal-structure.md` | synthesis | ✅ curated; flags 501(c)(10) vs (c)(7), IP-Company ownership / trust layer, naming, filings — for counsel |
+| Collegiate "Constitution and Bylaws" (1968/2020) | archive — **not GAP's** | `CONSTITUTION AND BYLAWS OF GAMMA ALPHA PI FRATERNITY.docx` | 📦 a collegiate fraternity's doc (Karnea/Arch Chapter); do not use as ours |
+| Org-structure ideation | stays in quarry | `org/{CORE ,}ORGANIZATIONAL STRUCTURE.docx` | 📦 ChatGPT brainstorm transcripts; superseded |
+| Chapter formation kit | — | `Research/Chapter-Bylaws-Template.pdf`, `Research/How to Start a Fraternity.docx` | 🔴 gap (curate when live) |
+| Nonprofit path | — | `Marketing/Making Gamma Alpha Pi a nonprofit.docx` | 🔴 gap |
 
 ### 6. Website & go-to-market — new lane (no home in repo yet)
 
