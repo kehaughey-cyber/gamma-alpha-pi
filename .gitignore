@@ -1,0 +1,17 @@
+# Word / Office temp + lock files
+~$*
+*.tmp
+
+# OS junk
+.DS_Store
+__MACOSX/
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+
+# Local scratch
+scratch/
+*.log
