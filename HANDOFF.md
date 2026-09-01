@@ -44,8 +44,17 @@ state changes.
   question, not Phase-1 behavior.
 - Note: `GAP/GAP_System_Prompt.docx` is the **book-rewriting** prompt (authoring tool),
   not the companion brain — belongs in `tools/`, still to file.
-- Companion tail still in quarry: voice-reference exemplars, narrative/calling entry
-  pieces, and the Forge user-journey drafts (reconcile vs `system/user-journey.md`).
+- Companion tail worked (2026-09-01): narrative/calling pieces confirmed by Kevin as
+  raw brain dumps (possible video seed) — left in the quarry, not imported. Kevin
+  cleared publish on the personal material, now curated in: `system/forge-journey.md`
+  (the full 10-phase "BIOS", complements not replaces `system/user-journey.md`) and
+  `system/voice-references/` (The Extension Cord, The Hill with the Ashes — the concrete
+  companions to `system/voice.md`). The "Confidential" cover stamp was dropped from the
+  Forge doc as self-contradictory in a public repo; "All Rights Reserved" kept.
+- Open reconciliations surfaced by the Forge doc: life arc is 3-stage (son→brother→
+  father) in README vs 6-stage (Son/Brother/Husband/Father/King/Elder) in the Forge;
+  new vocabulary to adopt or not (Forge/Mine/Bloom metallurgy, Wounded Lion / Excuse
+  Maker). `GAP_Seek_Ye_First_Master.docx` (~8k words) not yet read.
 
 ## Immediate next actions
 

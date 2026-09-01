@@ -57,7 +57,8 @@ has the voice and is the standard (`system/voice.md`).
 
 ```
 corpus/        the six books, canonical Markdown
-system/        how it operates: user journey, voice, the Big Brother outline
+system/        how it operates: user journey (design logic) + the Forge journey
+  (phased walk), voice + voice-references, the Big Brother outline
 companion/     operator / AI-companion instructions (the app's brain)
 operations/    intake, pairing, cadence, the ledger of who is where
   instruments/ the worksheets/assessments a man fills in on the walk

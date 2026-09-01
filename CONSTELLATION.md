@@ -76,9 +76,10 @@ load-bearing companion docs are filed; the voice/narrative tail remains.
 | Living Coin map / symbolism | `companion/reference/living-coin.md` | `GAP/GAP_Companion_Architecture.docx` + addenda | ✅ curated |
 | Layer-4 vision (intelligence/finance/tools) | `companion/reference/layer4-intelligence.md` | Codex Parts II–IV + 3 `REFERENCE_GAP_Layer4_*.docx` | ✅ curated as **deferred** |
 | `GAP_System_Prompt.docx` | `tools/` (belongs there) | `GAP/GAP_System_Prompt.docx` | 🔴 misfiled name — it's the **book-rewriting** prompt, an authoring tool, not the companion brain |
-| Voice-reference exemplars | — | `GAP/Voice_Reference_The_Extension_Cord.docx`, `..._The_Hill_With_The_Ashes.docx`, `GAP/Seek_Ye_First_Master.docx` | 🔴 gap (voice corpus for authoring + guide) |
-| Narrative / calling pieces | — | `GAP/{I was lost, II want to walk with you, Im tired, From breaking point to purpose, So here to fore, What do you serve, Whats your story, The Founding Call, The general Calling}.docx` | 🔴 gap (companion openings / entry scripts) |
-| Forge user-journey (v1–v3+updated) | reconcile → `system/user-journey.md` | `GAP/The_Forge_Master_User_Journey_v3_Updated.docx` | 🟡 reconcile |
+| Voice-reference exemplars | `system/voice-references/` | `GAP/Voice_Reference_The_Extension_Cord.docx`, `..._The_Hill_With_The_Ashes.docx` | ✅ curated (Kevin cleared publish): the concrete companions to `system/voice.md`. |
+| `Seek_Ye_First_Master.docx` | — | `GAP/GAP_Seek_Ye_First_Master.docx` | 🔴 not yet read (~8k words); classify next |
+| Narrative / calling pieces | stays in quarry | `GAP/{I was lost, II want to walk with you, Im tired, From breaking point to purpose, So here to fore, What do you serve, Whats your story, The Founding Call, The general Calling}.docx` | 📦 raw capture per Kevin — stream-of-consciousness brain dumps, possible future video seed. Preserved in quarry, **not imported** (do not reframe as designed scripts). |
+| Forge Master User Journey (the "BIOS") | `system/forge-journey.md` | `GAP/The_Forge_Master_User_Journey_v3_Updated.docx` (v3) | ✅ curated in full (Kevin cleared publish): the **phased choreography** (10 phases, ceremonies, the Walk, the Forge) that instantiates the abstract `system/user-journey.md`; a companion layer, not a merge. Open reconciliations noted in the file: 6-stage life arc vs 3-stage in README; new vocabulary (Forge/Mine/Bloom, Wounded Lion / Excuse Maker). |
 
 ### 4. Operations & instruments — `operations/` + a new tools lane
 

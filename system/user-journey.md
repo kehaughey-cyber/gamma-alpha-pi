@@ -4,6 +4,10 @@ How a man moves through Gamma Alpha Pi, why it is built this way, and what each
 part is for. This is the design document the corpus, the companion, and the app
 all serve.
 
+This is the *design logic*, the why. Its concrete instantiation, the phase-by-phase
+choreography of what a man actually walks through (the Interview, the Mine, the Walk,
+the Forge), is `forge-journey.md`. Read them together.
+
 ## The four things that stop every man
 
 Regardless of the arena of his life, a man is stopped by four things. Desire for
