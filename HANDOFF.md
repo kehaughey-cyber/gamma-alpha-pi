@@ -72,6 +72,14 @@ state changes.
   stage vocabulary, weekly cadence, the one number that matters) + `ledger-template.csv`.
   The **live ledger with the three real brothers stays private, off this public repo** —
   the repo holds only the template. Kevin fills the private copy.
+- **Website content curated (2026-09-01):** `website/site-plan.md` is the full page-by-page
+  rebuild plan (purpose, structure, exact copy for 6 pages, colors, type, implementation
+  priority) from the rebuild-instructions doc (Confidential stamp dropped; it's public-bound
+  site copy). `website/copy-audit.md` checks it vs live and canon: strongly aligned, one open
+  tension (the About page uses both the 3-stage and 6-stage arc), and a live-page audit that
+  needs the Wix login. Step 4 is now an **implementation gap, not a content gap** — the
+  plan's "before publishing the video" list is <2 hrs of Wix work. Still to curate: the WBS
+  program-of-work and launch copy (Seek Ye First, Marketing/), mined as needed.
 - **Brand curated (2026-09-01):** `brand/assets/` holds the logo vectors
   (primary/transparent/grayscale), favicon, and the canonical `coin-front.png`;
   `brand/brand.md` is the spec (colors `#000000` + GAP blue `#4A73E8` on white). The 3D

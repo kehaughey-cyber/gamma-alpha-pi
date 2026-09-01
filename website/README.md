@@ -20,14 +20,23 @@ registered in `channels.md` (URLs, funnel role, audit status). The video channel
 rescue voice at the top of the funnel; the site is the crossing; Discord is the community
 container. `channels.md` is the checklist for the Step-4 copy/content audit.
 
-## What belongs here (curate from the quarry, converted to Markdown)
-- **Site spec / rebuild intent** — `GAP/GAP_Website_Rebuild_Instructions.docx`, `website and app.docx`.
-- **Program of work** — `WBS for creating a global fraternity.docx`.
-- **Launch copy** — mine specific pieces from `Marketing/` (founder's story, the
-  problem GAP addresses, objections) as the site needs them. Do **not** import the
-  whole marketing folder; it is archive.
-- **The intake handoff** — where the public site ends and `operations/` intake begins.
-  This seam is the whole point: the door has to open onto the walk.
+## What is here now
+- **`site-plan.md`** — the complete page-by-page rebuild plan for GammaAlphaPi.com: purpose,
+  structure, and exact copy for all six pages, plus colors, typography, and an implementation
+  priority. The canonical site spec and copy of record.
+- **`copy-audit.md`** — the site plan checked against the live site and the repo canon:
+  strong alignment, one tension to settle (the life-arc framing on the About page), and the
+  live-page verification that needs the Wix login.
+- **`channels.md`** — the live public surfaces (site + YouTube/TikTok/Facebook/Discord).
+
+## Still to curate when the need is live
+- **Program of work** — `WBS for creating a global fraternity.docx` (broader than the site).
+- **Launch copy** — mine specific pieces from `Marketing/` and `GAP/GAP_Seek_Ye_First_Master.docx`
+  (the sermon / TikTok master content) as the site and campaigns need them. Do **not** import
+  the whole marketing folder; it is archive.
+- **The intake handoff** — where the public site ends and `operations/` intake begins. The
+  `site-plan.md` Join Us page + autoresponse is exactly this seam; keep it aligned with the
+  `operations/` intake as that stands up.
 
 ## Non-negotiables
 - **House voice on the public page too** (`system/voice.md`): orient, do not flatter or

@@ -121,8 +121,9 @@ storefront is already live; the *spec* and *funnel* thinking lives in the quarry
 | Object | Quarry source | Status |
 |---|---|---|
 | Live public surfaces | site + YouTube + TikTok + Facebook + Discord — registered in `website/channels.md` | ✅ live; ✅ registered; copy/content audit pending |
-| Site rebuild spec | `GAP/GAP_Website_Rebuild_Instructions.docx`, `website and app.docx` | 🔴 gap |
-| Program of work / WBS | `WBS for creating a global fraternity.docx`, `Research/How to Start a Fraternity.docx` | 🔴 gap |
+| Site rebuild plan (all 6 pages, copy + spec) | ✅ `website/site-plan.md` ← `GAP/GAP_Website_Rebuild_Instructions.docx` | curated; canon-aligned per `website/copy-audit.md` |
+| Copy audit (plan vs live vs canon) | ✅ `website/copy-audit.md` | one open tension (life-arc on About); live-page check needs Wix login |
+| Program of work / WBS | `WBS for creating a global fraternity.docx`, `Research/How to Start a Fraternity.docx` | 🔴 gap (broader than the site) |
 | Flagship content master | `GAP/GAP_Seek_Ye_First_Master.docx` — sermon + TikTok series + The Calling + The Founding Call, one finished rescue-voice piece | 🔴 notable; candidate to curate when the content/copy lane is worked |
 | Marketing engine | `Marketing/*` (~40 docs: funnels, 100 hooks, archetypes, pricing, objections, founder's story, acquisition roadmap, hero's journey) | 📦 mostly archive; mine specific pieces for launch copy |
 | Meetings / strategy | `meetings/{Avatar and marketing strategy, Meeting Structure}.docx` | 🔴 gap |
