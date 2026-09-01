@@ -64,6 +64,9 @@ and leave it floating; always land it in the brother's life.
 
 ## Symbolic vocabulary (digest)
 
+The full one-line key for every element on both faces is `coin-symbols.md`. A few load-bearing
+ones:
+
 - **Triangle and hourglass** — the three tenets (Love at the base, Strength and Vision at
   the sides) around the hourglass of time; what a man builds in the three is what remains.
 - **Compass rose and north star** — external orientation on the coin, internal orientation

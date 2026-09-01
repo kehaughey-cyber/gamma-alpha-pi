@@ -12,11 +12,17 @@ through*.
   app's kanban board and living coin) are the destination, not the current state. Bias
   what you build toward what gets a man through the loop (see `../HANDOFF.md` and CLAUDE.md,
   "ship the hull, not more keels").
-- **Open reconciliations:** this doc names a six-stage life arc (Son / Brother / Husband /
-  Father / King / Elder); `README.md` names three (son → brother → father). It also
-  introduces vocabulary the rest of the repo has not adopted yet: the Forge, the Mine, the
-  Drafting Room, the Bloom, and the two archetypal men (the Wounded Lion, the Excuse
-  Maker). Reconcile deliberately rather than letting two vocabularies drift.
+- **The life arc, reconciled:** the canonical arc is **three stages, son → brother →
+  father** — it is on the coin itself (symbol #6, `companion/reference/coin-symbols.md`), in
+  the Constitution (§2.4), and in the corpus structure. The six names this doc lists in
+  Phase 9 (Son / Brother / Husband / Father / King / Elder) are **finer life-seasons layered
+  on that arc**, not a competing scheme: Husband, King, and Elder are seasons within and
+  beyond Father. Read the six as a subdivision of the three, not a replacement. (Flagged for
+  Kevin; correct if you intend the six as canonical.)
+- **Still open — vocabulary:** this doc introduces terms the rest of the repo has not adopted
+  (the Forge, the Mine, the Drafting Room, the Bloom, and the two archetypal men, the Wounded
+  Lion and the Excuse Maker). Decide whether to adopt them repo-wide or keep them scoped to
+  this journey, rather than letting two vocabularies drift.
 
 ---
 

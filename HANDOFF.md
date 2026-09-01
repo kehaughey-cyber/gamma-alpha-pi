@@ -51,10 +51,16 @@ state changes.
   `system/voice-references/` (The Extension Cord, The Hill with the Ashes — the concrete
   companions to `system/voice.md`). The "Confidential" cover stamp was dropped from the
   Forge doc as self-contradictory in a public repo; "All Rights Reserved" kept.
-- Open reconciliations surfaced by the Forge doc: life arc is 3-stage (son→brother→
-  father) in README vs 6-stage (Son/Brother/Husband/Father/King/Elder) in the Forge;
-  new vocabulary to adopt or not (Forge/Mine/Bloom metallurgy, Wounded Lion / Excuse
-  Maker). `GAP_Seek_Ye_First_Master.docx` reclassified as funnel content (Website/GTM).
+- **Loose ends cleared (2026-09-01):** book-rewriting prompt curated to
+  `tools/book-rewriting-prompt.md` (authoring tool, not the companion brain). Coin symbol
+  canon curated to `companion/reference/coin-symbols.md` (every element keyed). The **life
+  arc is reconciled**: three stages (son→brother→father) is canonical — it is coin symbol
+  #6, Constitution §2.4, and the corpus; the Forge's six (…Husband/King/Elder) are finer
+  seasons layered on, noted in `system/forge-journey.md` (Kevin can promote the six if he
+  wants). Coin **geometry now confirmed** 50 segments × 7.2° by the coin's own symbol
+  reference (45 visible). `GAP_Seek_Ye_First_Master.docx` = funnel content (Website/GTM).
+- Still genuinely open: the Forge **metallurgy vocabulary** (adopt repo-wide or keep
+  scoped); the four **legal questions for counsel** (parked in `governance/legal-structure.md`).
 - **Instruments curated (2026-09-01):** `operations/instruments/` holds the flagship NTI
   `self-assessment.md` (all 45 named aspects + method — richer than the living-coin digest,
   now cross-linked), `allostatic-audit.md`, and `community-map.md`. Left as products/quarry:

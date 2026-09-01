@@ -14,6 +14,7 @@ load-bearing pieces are now curated here:
 - **`ai-conduct.md`** — the governing constitution: purposes, sacred boundaries, the
   governing test. Shared with `governance/`.
 - **`reference/living-coin.md`** — the 45-segment map and coin symbolism digest.
+- **`reference/coin-symbols.md`** — the one-line key to every symbol on both faces of the coin.
 - **`reference/layer4-intelligence.md`** — the intelligence/finance/tool-pipeline vision,
   **deferred by design**, kept so it is not lost and not mistaken for the MVP.
 

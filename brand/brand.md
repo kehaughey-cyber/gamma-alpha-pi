@@ -41,7 +41,8 @@ device at the center of the coin's triangle.
   1,024 ancestors of seven generations, cf. `system/forge-journey.md`); and the outer ring of
   scripture (Ezekiel 22:30, Isaiah 6:8, Exodus 3:14, Matthew 6:33, Romans 10:9-11, Isaiah
   41:10, 1 Cor 13:4-8, Ephesians 6:10-18, James 2:17, Isaiah 58:6, Ephesians 5:25, John 15:13,
-  Mark 12:30-31). The companion's reading of these is in `companion/system-prompt.md`.
+  Mark 12:30-31). Every element keyed one line each in `companion/reference/coin-symbols.md`;
+  the companion's reading of them is in `companion/system-prompt.md`.
 - **3D source:** `Fraternity/Coin/The raod/Coin rev 3 3d.glb` (~10.5 MB). Left in the quarry
   by design to keep this lane light; pull it into `assets/` only if a collaborator is
   actually working the 3D model. Alternate renders and photos are also in the quarry.

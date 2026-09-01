@@ -75,7 +75,7 @@ load-bearing companion docs are filed; the voice/narrative tail remains.
 | AI conduct constitution | `companion/ai-conduct.md` | `GAP/GAP_AI_Governance_Codex.docx` Part I | ✅ curated |
 | Living Coin map / symbolism | `companion/reference/living-coin.md` | `GAP/GAP_Companion_Architecture.docx` + addenda | ✅ curated |
 | Layer-4 vision (intelligence/finance/tools) | `companion/reference/layer4-intelligence.md` | Codex Parts II–IV + 3 `REFERENCE_GAP_Layer4_*.docx` | ✅ curated as **deferred** |
-| `GAP_System_Prompt.docx` | `tools/` (belongs there) | `GAP/GAP_System_Prompt.docx` | 🔴 misfiled name — it's the **book-rewriting** prompt, an authoring tool, not the companion brain |
+| Book-rewriting prompt | `tools/book-rewriting-prompt.md` | `GAP/GAP_System_Prompt.docx` | ✅ curated — the authoring-pipeline prompt (not the companion brain; its name was misleading) |
 | Voice-reference exemplars | `system/voice-references/` | `GAP/Voice_Reference_The_Extension_Cord.docx`, `..._The_Hill_With_The_Ashes.docx` | ✅ curated (Kevin cleared publish): the concrete companions to `system/voice.md`. |
 | `Seek_Ye_First_Master.docx` | belongs in Website/GTM lane, not companion | `GAP/GAP_Seek_Ye_First_Master.docx` | ↪️ reclassified: it's a **Master Content Document** (sermon + TikTok series + The Calling + The Founding Call + verse reference), finished rescue-voice funnel content. See the Website & GTM lane. |
 | Narrative / calling pieces | stays in quarry | `GAP/{I was lost, II want to walk with you, Im tired, From breaking point to purpose, So here to fore, What do you serve, Whats your story, The Founding Call, The general Calling}.docx` | 📦 raw capture per Kevin — stream-of-consciousness brain dumps, possible future video seed. Preserved in quarry, **not imported** (do not reframe as designed scripts). |
@@ -140,7 +140,7 @@ the thousands of renders/photos in the quarry.
 | Coin render | `brand/assets/coin-front.png` | ✅ canonical front render curated; 3D `.glb` (~10.5 MB) left in quarry, linked |
 | Coin 3D / alt renders | `Coin/The raod/Coin rev 3 3d.glb`, other renders/spin videos/proofs | 📦 archive; linked from `brand/brand.md` |
 | Type / typeface | — | 🔴 open: wordmark outlined in SVG, typeface unconfirmed (flagged in `brand/brand.md`) |
-| Symbols & meanings | `Coin/Symbol explinations.xlsx`, `Research/Symbols.docx`, `Research/The Torch as a Symbol.docx` | 🔴 gap (symbol canon — belongs with corpus/companion; cross-ref `companion/reference/living-coin.md`) |
+| Symbols & meanings | `companion/reference/coin-symbols.md` (key) ← `Coin/Symbol explinations.xlsx` (+ `Research/Symbols.docx`, `The Torch as a Symbol.docx`) | ✅ symbol key curated; the empire/civilization deep-dives stay in quarry (Book-of-the-Coin research) |
 | Video / ambience / quotes | `Videos/` (~2,000 mp4), campfire footage, `quotes/` | 📦 archive (production assets) |
 
 ### 8. AI tooling & prompts — `tools/`
