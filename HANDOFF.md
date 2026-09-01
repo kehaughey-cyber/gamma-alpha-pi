@@ -59,8 +59,11 @@ state changes.
   `self-assessment.md` (all 45 named aspects + method — richer than the living-coin digest,
   now cross-linked), `allostatic-audit.md`, and `community-map.md`. Left as products/quarry:
   the 35k-word Gratitude Journal, the 3-Day Reset and 90-Minute Mission curricula; the
-  community doc's liability waiver + safety plan routed to operations/governance. Still open
-  in operations: **the ledger is not created** (the one number that matters, HANDOFF #5).
+  community doc's liability waiver + safety plan routed to operations/governance.
+- **Ledger stood up (2026-09-01):** `operations/ledger.md` (method, columns, Forge-phase
+  stage vocabulary, weekly cadence, the one number that matters) + `ledger-template.csv`.
+  The **live ledger with the three real brothers stays private, off this public repo** —
+  the repo holds only the template. Kevin fills the private copy.
 - **Brand curated (2026-09-01):** `brand/assets/` holds the logo vectors
   (primary/transparent/grayscale), favicon, and the canonical `coin-front.png`;
   `brand/brand.md` is the spec (colors `#000000` + GAP blue `#4A73E8` on white). The 3D
@@ -84,7 +87,8 @@ state changes.
    voice references, layer pipelines) as Markdown.
 4. Push to a private GitHub remote so the coding friend has it. Needs Kevin's
    account; then wire the remote and push.
-5. Stand up the `operations/` ledger (a spreadsheet) for the three brothers.
+5. ~~Stand up the `operations/` ledger.~~ Done — `operations/ledger.md` + `ledger-template.csv`
+   (template only; live data private off-repo). Kevin to fill the private copy for the three.
 
 ## The one metric that matters
 

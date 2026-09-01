@@ -1,0 +1,6 @@
+brother,joined,role,current_stage,big_brother,status,last_contact,produced,notes
+# FILL THIS IN A PRIVATE SHEET — do not commit real brothers' data to the public repo.
+# Rows below are fictional examples showing the shape. Delete them before real use.
+A.,2026-03-01,Big Brother,Reach Back,(founder),moving,2026-08-28,B.,first loop closing — now walking B.
+B.,2026-07-15,Little Brother,Mine,A.,moving,2026-08-27,,deep in the fear work; check in
+C.,2026-06-10,Brother,Forge,(founder),stalled,2026-07-30,,last_contact stale — reach out

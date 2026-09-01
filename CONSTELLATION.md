@@ -88,7 +88,7 @@ instruments filed.** The quarry holds the actual worksheets a man fills in.
 
 | Object | Quarry source | Destination | Status |
 |---|---|---|---|
-| The ledger | 🔴 gap — not created | `operations/` (spreadsheet, HANDOFF #5) | the one remaining operations gap |
+| The ledger | ✅ `operations/ledger.md` + `ledger-template.csv` | — | template + method curated; **live data stays private off-repo** |
 | NTI self-assessment (45 aspects) | ✅ `operations/instruments/self-assessment.md` | `Books/GAP Self Assessment.xlsx` (`Where I want to be.xlsx` = older, superseded) | curated; flagship instrument |
 | Allostatic Audit | ✅ `operations/instruments/allostatic-audit.md` | `GAP/The Allostatic Audit Worksheet.docx` | curated |
 | Community map | ✅ `operations/instruments/community-map.md` | `Books/Getting to Know Your Community.docx` | curated (worksheet only; event/safety/waiver routed out) |
