@@ -68,6 +68,7 @@ brand/         the visual identity sources: logo, coin, color, type
 tools/         scripts (docx -> md, etc.)
 _inbox/        raw capture from chats and old projects, to be refined (see below)
 CONSTELLATION.md  the mining index: what's in the quarry, what it maps to, what's a gap
+MVP-WBS.md     the deltas to a proven loop: the critical path to launch (Step 4)
 ARCHIVE.md     pointer to the raw Fraternity source folder
 ```
 

@@ -94,6 +94,14 @@ state changes.
   `legal-structure.md` lists the open questions for counsel (501(c)(10) vs (c)(7); who
   owns the for-profit IP Company / trust layer; entity names; actual filings).
 
+## The critical path to launch
+
+`MVP-WBS.md` is the deltas-to-MVP work breakdown (Step 4). The hull: **WP1 site go-live
+(the ~2 hr Wix "before video" list) → WP2 companion Phase-1 deploy → WP3 intake runbook +
+WP4 fill the private ledger + WP5 reading-path check.** Most of it is gated only on Kevin's
+Wix login and a decision or two. Full-scale org buildout (legal, council, chapters, app,
+Layer-4) is explicitly deferred there.
+
 ## Immediate next actions
 
 1. Close the rewrites to voice: Father, then Nosce Te Ipsum.
