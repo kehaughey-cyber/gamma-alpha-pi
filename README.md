@@ -60,10 +60,19 @@ corpus/        the six books, canonical Markdown
 system/        how it operates: user journey, voice, the Big Brother outline
 companion/     operator / AI-companion instructions (the app's brain)
 operations/    intake, pairing, cadence, the ledger of who is where
+  instruments/ the worksheets/assessments a man fills in on the walk
+governance/    creed, constitution, bylaws, org structure, chapter formation
+website/       the public site: spec, launch copy, the door onto the walk
+brand/         the visual identity sources: logo, coin, color, type
 tools/         scripts (docx -> md, etc.)
 _inbox/        raw capture from chats and old projects, to be refined (see below)
+CONSTELLATION.md  the mining index: what's in the quarry, what it maps to, what's a gap
 ARCHIVE.md     pointer to the raw Fraternity source folder
 ```
+
+Lanes carry a `README.md` that says what belongs in them and what does not. Several
+are freshly scaffolded and mostly empty by design — the framework is set so the
+material can be filled in on purpose. See `CONSTELLATION.md` for the gap picture.
 
 ## Migrating in old material
 

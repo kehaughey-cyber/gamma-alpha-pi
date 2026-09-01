@@ -27,6 +27,13 @@ state changes.
 - Corpus: Coin, Brother, Field Manual rewritten to voice. Father and Nosce Te Ipsum
   still first draft. Big Brother outlined only (`corpus/big-brother/OUTLINE.md`).
 - Three brothers are walking now. The loop is not yet proven closed.
+- **Constellation mapped (2026-09-01):** the full quarry inventory, keyed to repo
+  destinations with a gap picture, is in `CONSTELLATION.md`. Framework lanes
+  scaffolded: `governance/`, `website/`, `brand/`, `operations/instruments/` (README
+  stubs, empty by design, ready to fill). Repo is public at
+  `github.com/kehaughey-cyber/gamma-alpha-pi` — a collaborator can already see it.
+- Next curation target (Kevin's call): the **companion brain** in `Fraternity/GAP/`
+  is fully drafted and 0% curated into `companion/` — highest-leverage lane.
 
 ## Immediate next actions
 

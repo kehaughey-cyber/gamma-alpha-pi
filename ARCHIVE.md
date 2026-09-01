@@ -9,6 +9,10 @@ It holds years of drafts, old book revisions, research, marketing, meeting notes
 the GAP companion specs, media (presentation videos, ambience footage), and the
 constitution/bylaws. It is the quarry. This repo is the cut stone.
 
+**For the full inventory — what is in the quarry, what it maps to, and whether it is
+in the repo yet — see `CONSTELLATION.md`.** This file says where the quarry is; that
+one says what is in it.
+
 Do not bulk-import the archive. Pull specific material in on purpose, convert it to
 Markdown, and file it in the right place (or stage it through `_inbox/` first).
 Notable seams worth mining next:
