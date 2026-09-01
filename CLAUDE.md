@@ -1,6 +1,7 @@
 # CLAUDE.md — Gamma Alpha Pi
 
-Standing context for any AI session working in this repo. Read this first.
+Standing context for any AI session working in this repo. Read this first, then
+`HANDOFF.md` for current state and next actions.
 
 ## What this is
 
