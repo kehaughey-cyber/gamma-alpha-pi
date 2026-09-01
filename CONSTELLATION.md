@@ -77,7 +77,7 @@ load-bearing companion docs are filed; the voice/narrative tail remains.
 | Layer-4 vision (intelligence/finance/tools) | `companion/reference/layer4-intelligence.md` | Codex Parts II–IV + 3 `REFERENCE_GAP_Layer4_*.docx` | ✅ curated as **deferred** |
 | `GAP_System_Prompt.docx` | `tools/` (belongs there) | `GAP/GAP_System_Prompt.docx` | 🔴 misfiled name — it's the **book-rewriting** prompt, an authoring tool, not the companion brain |
 | Voice-reference exemplars | `system/voice-references/` | `GAP/Voice_Reference_The_Extension_Cord.docx`, `..._The_Hill_With_The_Ashes.docx` | ✅ curated (Kevin cleared publish): the concrete companions to `system/voice.md`. |
-| `Seek_Ye_First_Master.docx` | — | `GAP/GAP_Seek_Ye_First_Master.docx` | 🔴 not yet read (~8k words); classify next |
+| `Seek_Ye_First_Master.docx` | belongs in Website/GTM lane, not companion | `GAP/GAP_Seek_Ye_First_Master.docx` | ↪️ reclassified: it's a **Master Content Document** (sermon + TikTok series + The Calling + The Founding Call + verse reference), finished rescue-voice funnel content. See the Website & GTM lane. |
 | Narrative / calling pieces | stays in quarry | `GAP/{I was lost, II want to walk with you, Im tired, From breaking point to purpose, So here to fore, What do you serve, Whats your story, The Founding Call, The general Calling}.docx` | 📦 raw capture per Kevin — stream-of-consciousness brain dumps, possible future video seed. Preserved in quarry, **not imported** (do not reframe as designed scripts). |
 | Forge Master User Journey (the "BIOS") | `system/forge-journey.md` | `GAP/The_Forge_Master_User_Journey_v3_Updated.docx` (v3) | ✅ curated in full (Kevin cleared publish): the **phased choreography** (10 phases, ceremonies, the Walk, the Forge) that instantiates the abstract `system/user-journey.md`; a companion layer, not a merge. Open reconciliations noted in the file: 6-stage life arc vs 3-stage in README; new vocabulary (Forge/Mine/Bloom, Wounded Lion / Excuse Maker). |
 
@@ -120,6 +120,7 @@ storefront is already live; the *spec* and *funnel* thinking lives in the quarry
 | Live public surfaces | site + YouTube + TikTok + Facebook + Discord — registered in `website/channels.md` | ✅ live; ✅ registered; copy/content audit pending |
 | Site rebuild spec | `GAP/GAP_Website_Rebuild_Instructions.docx`, `website and app.docx` | 🔴 gap |
 | Program of work / WBS | `WBS for creating a global fraternity.docx`, `Research/How to Start a Fraternity.docx` | 🔴 gap |
+| Flagship content master | `GAP/GAP_Seek_Ye_First_Master.docx` — sermon + TikTok series + The Calling + The Founding Call, one finished rescue-voice piece | 🔴 notable; candidate to curate when the content/copy lane is worked |
 | Marketing engine | `Marketing/*` (~40 docs: funnels, 100 hooks, archetypes, pricing, objections, founder's story, acquisition roadmap, hero's journey) | 📦 mostly archive; mine specific pieces for launch copy |
 | Meetings / strategy | `meetings/{Avatar and marketing strategy, Meeting Structure}.docx` | 🔴 gap |
 | Presentations | `Presentations/*.pptx` (5: Intro, Brotherhood, Love, Strength, Vision) | 📦 archive; source for site/deck copy |
