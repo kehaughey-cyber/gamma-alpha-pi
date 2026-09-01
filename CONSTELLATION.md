@@ -23,7 +23,7 @@ Status legend:
 |---|---|---|---|
 | **The quarry (on-disk)** | `Active/Fraternity/` | Curate straight into structured folders (converted to `.md`), or stage via `_inbox/`. No bulk import. | 4,416 files. Substance is ~260 docs (192 `.docx`, 47 `.pdf`, 16 `.xlsx`, 5 `.pptx`); the other ~4,150 are media/design assets. |
 | **Web chats & other projects** | Claude projects, other assistants | Cannot be read from disk — **export/paste the useful parts into `_inbox/` manually**, then refine. | The one seam that needs your hands. Name each file by source + topic. |
-| **The live site** | `gammaalphapi.com` (public) + Wix editor (backend, authenticated) | Public pages are readable now; the Wix editor is behind your login — treat as a **manual seam** you drive, or grant access when we work it. | Storefront is already live (see Website lane). |
+| **The live public surfaces** | `gammaalphapi.com` + Wix editor (backend), YouTube, TikTok, Facebook, Discord | Public pages/channels are viewable now (though social platforms resist automated reading); the Wix editor and any channel backend are behind Kevin's login — **manual seams**. Registered in `website/channels.md`. | Storefront + channels already live (see Website lane). |
 
 ---
 
@@ -116,7 +116,7 @@ storefront is already live; the *spec* and *funnel* thinking lives in the quarry
 
 | Object | Quarry source | Status |
 |---|---|---|
-| Live public site | `gammaalphapi.com` — Home / About / Join Us / Books-Coin-Merch / Contact / Program List | ✅ live (Wix); backend is a manual seam |
+| Live public surfaces | site + YouTube + TikTok + Facebook + Discord — registered in `website/channels.md` | ✅ live; ✅ registered; copy/content audit pending |
 | Site rebuild spec | `GAP/GAP_Website_Rebuild_Instructions.docx`, `website and app.docx` | 🔴 gap |
 | Program of work / WBS | `WBS for creating a global fraternity.docx`, `Research/How to Start a Fraternity.docx` | 🔴 gap |
 | Marketing engine | `Marketing/*` (~40 docs: funnels, 100 hooks, archetypes, pricing, objections, founder's story, acquisition roadmap, hero's journey) | 📦 mostly archive; mine specific pieces for launch copy |

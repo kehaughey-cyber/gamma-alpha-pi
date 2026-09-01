@@ -15,6 +15,11 @@ Kevin drives it or grants access when we work it.
 So the site exists. The open question is not "build a site" — it is **does the live site
 say the true thing and route a man to the walk.** That gap is what this lane closes.
 
+GAP also lives on YouTube, TikTok, Facebook, and Discord. All live public surfaces are
+registered in `channels.md` (URLs, funnel role, audit status). The video channels are the
+rescue voice at the top of the funnel; the site is the crossing; Discord is the community
+container. `channels.md` is the checklist for the Step-4 copy/content audit.
+
 ## What belongs here (curate from the quarry, converted to Markdown)
 - **Site spec / rebuild intent** — `GAP/GAP_Website_Rebuild_Instructions.docx`, `website and app.docx`.
 - **Program of work** — `WBS for creating a global fraternity.docx`.
