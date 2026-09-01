@@ -140,7 +140,7 @@ the thousands of renders/photos in the quarry.
 | Coin render | `brand/assets/coin-front.png` | ✅ canonical front render curated; 3D `.glb` (~10.5 MB) left in quarry, linked |
 | Coin 3D / alt renders | `Coin/The raod/Coin rev 3 3d.glb`, other renders/spin videos/proofs | 📦 archive; linked from `brand/brand.md` |
 | Type / typeface | — | 🔴 open: wordmark outlined in SVG, typeface unconfirmed (flagged in `brand/brand.md`) |
-| Symbols & meanings | `companion/reference/coin-symbols.md` (key) ← `Coin/Symbol explinations.xlsx` (+ `Research/Symbols.docx`, `The Torch as a Symbol.docx`) | ✅ symbol key curated; the empire/civilization deep-dives stay in quarry (Book-of-the-Coin research) |
+| Symbols & meanings | **canon: `corpus/coin/book-of-the-coin.md`** (full symbology, a chapter per symbol); quick index at `companion/reference/coin-symbols.md` | ✅ the book is the authority; the index points into it. `Coin/Symbol explinations.xlsx` and the empire deep-dives were research, superseded by the book — stay in quarry |
 | Video / ambience / quotes | `Videos/` (~2,000 mp4), campfire footage, `quotes/` | 📦 archive (production assets) |
 
 ### 8. AI tooling & prompts — `tools/`

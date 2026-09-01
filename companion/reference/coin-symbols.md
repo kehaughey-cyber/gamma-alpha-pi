@@ -1,13 +1,15 @@
-# Reference: The Coin's Symbols (the key)
+# Reference: The Coin's Symbols (quick index)
 
-Every element on the coin, front and back, and what it means, in one line each. This is
-the key a collaborator or the companion reaches for to answer "what does that symbol
-mean." The companion's *conversational* use of these is in `system-prompt.md`; the full
-essays behind each are in the Book of the Coin (`corpus/coin/`) and the source sheet. The
-visual faces are in `brand/` (`coin-front.png`, `coin-back.png`).
+A one-line-each index to the coin's symbols, front and back — the fast lookup for "what
+does that symbol mean." **It is not the canon.** The full symbology of the coin lives in
+**the Book of the Coin (`corpus/coin/book-of-the-coin.md`)**, which carries a dedicated
+chapter for nearly every element listed here. When the meaning matters, read the book;
+this index only points the way. The companion's *conversational* use of these is in
+`system-prompt.md`; the visual faces are in `brand/` (`coin-front.png`, `coin-back.png`).
 
-- **Source:** `Fraternity/Coin/Symbol explinations.xlsx` (+ `Research/Symbols.docx`,
-  `Research/The Torch as a Symbol.docx`).
+- **Authority:** `corpus/coin/book-of-the-coin.md` (the full treatment, ~70k words).
+- **This index drawn from:** the book's chapter list plus `Fraternity/Coin/Symbol
+  explinations.xlsx` (research; superseded by the book where they differ).
 
 ## Concepts (the words on the coin)
 
@@ -43,7 +45,9 @@ quarry (research behind the Book of the Coin).
 - **Axial precession / Solstice azimuth** — the slow wobble and the sun's extremes; direction over long time.
 - **Compass rose** — the inner compass, a man's values and true north.
 - **Big Dipper & North Star (Polaris)** — the fixed point to navigate by; his Vision.
-- **7.2 degree boxes** — the circle divided into **fifty** equal parts of 7.2°, after Eratosthenes, who measured the Earth by reason. (This is the coin's own confirmation of the fifty-segment geometry; forty-five are visible.)
+- **7.2 degree boxes** — the circle divided into **fifty** equal parts of 7.2°, after Eratosthenes, who measured the Earth by reason. (This is the coin's own confirmation of the fifty-segment geometry; forty-five are visible. Book chapter: "The 50 Boxes: 7.2 Degrees.")
+- **Azure blue** — the blue of the segment ring (the GAP blue, `#4A73E8`); its meaning is its own chapter in the book.
+- **Phi (Φ)** — the golden ratio; proportion and design woven through nature. Its own chapter in the book.
 - **Open right hand, palm forward** — honesty, openness, the offer of help; not alone.
 - **Standing in the Gap** — the commitment to support, protect, and advocate; the call of Ezekiel 22:30.
 - **Fibonacci spiral** — growth and the hero's journey (noted in source, meaning developing).

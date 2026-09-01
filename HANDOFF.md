@@ -53,7 +53,9 @@ state changes.
   Forge doc as self-contradictory in a public repo; "All Rights Reserved" kept.
 - **Loose ends cleared (2026-09-01):** book-rewriting prompt curated to
   `tools/book-rewriting-prompt.md` (authoring tool, not the companion brain). Coin symbol
-  canon curated to `companion/reference/coin-symbols.md` (every element keyed). The **life
+  canon lives in `corpus/coin/book-of-the-coin.md` (~70k words, a chapter per symbol) —
+  `companion/reference/coin-symbols.md` is a one-line quick index that defers to the book,
+  not a competing canon. The **life
   arc is reconciled**: three stages (son→brother→father) is canonical — it is coin symbol
   #6, Constitution §2.4, and the corpus; the Forge's six (…Husband/King/Elder) are finer
   seasons layered on, noted in `system/forge-journey.md` (Kevin can promote the six if he
