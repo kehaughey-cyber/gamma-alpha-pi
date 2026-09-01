@@ -55,6 +55,11 @@ state changes.
   father) in README vs 6-stage (Son/Brother/Husband/Father/King/Elder) in the Forge;
   new vocabulary to adopt or not (Forge/Mine/Bloom metallurgy, Wounded Lion / Excuse
   Maker). `GAP_Seek_Ye_First_Master.docx` reclassified as funnel content (Website/GTM).
+- **Brand curated (2026-09-01):** `brand/assets/` holds the logo vectors
+  (primary/transparent/grayscale), favicon, and the canonical `coin-front.png`;
+  `brand/brand.md` is the spec (colors `#000000` + GAP blue `#4A73E8` on white). The 3D
+  `.glb` (~10.5 MB) and the production library stay in the quarry, linked. Open item: the
+  wordmark type is outlined in the SVGs, so the typeface is unconfirmed — needs Kevin.
 - **Governance curated (2026-09-01):** constitution/bylaws reconciliation done.
   Canonical = the Leadership-Council Institutional pair v1.0 → `governance/constitution.md`
   and `governance/bylaws.md` (+ `creed.md`, `legal-structure.md`). The 22k-word

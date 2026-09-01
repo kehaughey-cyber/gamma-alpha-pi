@@ -136,9 +136,11 @@ the thousands of renders/photos in the quarry.
 
 | Object | Quarry source | Recommendation |
 |---|---|---|
-| Logo (vector + kit) | `Coin/Fiverr Premium Kit/` (SVG, PNG, favicon, social kit, brand guide PDF) | 🔴 pull SVG + guide into `brand/` |
-| Coin renders / 3D | `Coin/` (renders, `Coin rev 3 3d.glb`, spin videos, proofs) | 📦 archive; link the canonical render |
-| Symbols & meanings | `Coin/Symbol explinations.xlsx`, `Coin/Symbol explanations`, `Research/Symbols.docx`, `Research/The Torch as a Symbol.docx` | 🔴 gap (symbol canon — belongs with corpus/companion) |
+| Logo (vector) | `brand/assets/logo-*.svg`, `brand/assets/favicon.ico` | ✅ pulled from `Coin/Fiverr Premium Kit/`; spec in `brand/brand.md` (colors `#000000` + `#4A73E8`) |
+| Coin render | `brand/assets/coin-front.png` | ✅ canonical front render curated; 3D `.glb` (~10.5 MB) left in quarry, linked |
+| Coin 3D / alt renders | `Coin/The raod/Coin rev 3 3d.glb`, other renders/spin videos/proofs | 📦 archive; linked from `brand/brand.md` |
+| Type / typeface | — | 🔴 open: wordmark outlined in SVG, typeface unconfirmed (flagged in `brand/brand.md`) |
+| Symbols & meanings | `Coin/Symbol explinations.xlsx`, `Research/Symbols.docx`, `Research/The Torch as a Symbol.docx` | 🔴 gap (symbol canon — belongs with corpus/companion; cross-ref `companion/reference/living-coin.md`) |
 | Video / ambience / quotes | `Videos/` (~2,000 mp4), campfire footage, `quotes/` | 📦 archive (production assets) |
 
 ### 8. AI tooling & prompts — `tools/`

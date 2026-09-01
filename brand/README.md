@@ -5,6 +5,17 @@ across the site, the books, and the coin itself. This repo is text-canonical, so
 lane stays **deliberately small** — the *source* files a collaborator actually needs to
 build with, not the thousands of renders and photos. Those stay in the quarry.
 
+## What is here now
+
+- **`brand.md`** — the spec: colors (`#000000`, GAP blue `#4A73E8`, white), the logo
+  variants, the coin, and the open type question.
+- **`assets/`** — `logo-primary.svg`, `logo-transparent.svg`, `logo-grayscale.svg`,
+  `favicon.ico`, and `coin-front.png` (the canonical coin render).
+
+The 3D coin source (`.glb`, ~10.5 MB) and the whole production library stay in the quarry;
+`brand.md` says where. **Open item:** the wordmark type is outlined in the SVGs, so the
+typeface is unconfirmed — see `brand.md`.
+
 ## What belongs here (pull the sources; leave the rest in the quarry)
 - **Logo, vector** — `Coin/Fiverr Premium Kit/SVG Vector Files/*.svg` (the real source;
   PNGs are exports of it). Pull the SVG(s).
