@@ -88,14 +88,14 @@ instruments filed.** The quarry holds the actual worksheets a man fills in.
 
 | Object | Quarry source | Destination | Status |
 |---|---|---|---|
-| The ledger | — | `operations/` (spreadsheet, HANDOFF #5) | 🔴 gap — not created |
-| Self-assessment | `Books/GAP Self Assessment.xlsx` | instruments | 🔴 gap |
-| Allostatic Audit | `GAP/The Allostatic Audit Worksheet.docx` / `.pdf` | instruments | 🔴 gap |
-| "Where I want to be" | `Books/Old versions/Where I want to be *.xlsx` | instruments | 🔴 gap |
-| Gratitude journal, Community map | `Books/Gratitude Journal.docx`, `Books/Getting to Know Your Community.docx` | instruments | 🔴 gap |
-| 90-Minute Mission / Mission Blueprint | `90 minute mission/*` (workbook, PDFs, Lulu print template) | instrument / product | 🔴 gap |
-| 3-Day Reset | `Books/3 day/*` (book, workbook, challenge) | instrument / product | 🔴 gap |
-| Modular Meal System | `Books/Nutritian/*` | instrument / product (peripheral) | 📦 likely archive |
+| The ledger | 🔴 gap — not created | `operations/` (spreadsheet, HANDOFF #5) | the one remaining operations gap |
+| NTI self-assessment (45 aspects) | ✅ `operations/instruments/self-assessment.md` | `Books/GAP Self Assessment.xlsx` (`Where I want to be.xlsx` = older, superseded) | curated; flagship instrument |
+| Allostatic Audit | ✅ `operations/instruments/allostatic-audit.md` | `GAP/The Allostatic Audit Worksheet.docx` | curated |
+| Community map | ✅ `operations/instruments/community-map.md` | `Books/Getting to Know Your Community.docx` | curated (worksheet only; event/safety/waiver routed out) |
+| Gratitude journal | 📦 product (not an instrument) | `Books/Gratitude Journal.docx` (~35k words) | full journal product; don't curate as worksheet |
+| 90-Minute Mission, 3-Day Reset | 🔴 product-curricula | `90 minute mission/*`, `Books/3 day/*` | curate with product/website lane (3-Day = entry experience) |
+| Modular Meal System | 📦 archive | `Books/Nutritian/*` | peripheral product |
+| Liability waiver / event safety plan | 🔴 → operations/governance | bundled in `Books/Getting to Know Your Community.docx` | legal/operational, not a personal instrument |
 
 ### 5. Governance & legal — `governance/` (constitution/bylaws reconciled)
 

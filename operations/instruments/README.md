@@ -5,15 +5,23 @@ The worksheets, assessments, and journals a man actually works through on the wa
 into. They are the physical form of the corpus's gates — the place where an honest
 answer moves him and a dishonest one stalls him.
 
-## What belongs here (curate from the quarry, converted to Markdown / clean templates)
-- **Self-assessment** — `Books/GAP Self Assessment.xlsx`.
-- **Allostatic Audit** — `GAP/The Allostatic Audit Worksheet.docx` / `.pdf`.
-- **Where I want to be** — `Books/Old versions/Where I want to be.xlsx` (the blank template;
-  the Kevin/Aaron copies are filled-in and private — leave them in the quarry).
-- **Gratitude journal** — `Books/Gratitude Journal.docx`.
-- **Community map** — `Books/Getting to Know Your Community.docx`.
-- **90-Minute Mission / Mission Blueprint** — `90 minute mission/` workbook.
-- **3-Day Reset** — `Books/3 day/` book, workbook, challenge.
+## What is here now
+- **`self-assessment.md`** — the flagship: the NTI 45-aspect self-assessment (all 45 named,
+  the current/desired/delta method, prioritization). The instrument the Mine runs on and the
+  companion facilitates. (`Where I want to be.xlsx` was the same instrument, older/broken;
+  superseded.)
+- **`allostatic-audit.md`** — the six-category load audit; locates a man's position (Danger
+  Zone / The Becoming / Atrophy).
+- **`community-map.md`** — Getting to Know Your Community (the Community-aspect worksheet).
+
+## Still to curate when the need is live
+- **Gratitude journal** — `Books/Gratitude Journal.docx` is a full ~35k-word journal
+  **product**, not a lean worksheet; treat as a print product, not an instrument to curate.
+- **90-Minute Mission / Mission Blueprint** (`90 minute mission/`) and **3-Day Reset**
+  (`Books/3 day/`) are **product-curricula** (the 3-Day Reset is the entry experience per
+  `governance/bylaws.md` §5.1). Curate when the product/website lane is worked.
+- The community doc's **event-planning + safety plan + liability waiver** are operational/
+  legal, not personal instruments → route to `operations/` and `governance/`.
 
 ## Non-negotiables
 - **These are blank instruments, never filled-in ones.** A man's answers are private to

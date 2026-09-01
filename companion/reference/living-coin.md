@@ -49,6 +49,10 @@ across constituents and tenets a man moves freely, the way real men grow.
 - **Community** — his responsibility beyond his own household.
 - **Creative** — the creative contribution God placed in him.
 
+The three sub-components under each subject are named in full in the fillable instrument,
+`operations/instruments/self-assessment.md` (all 45, e.g. Love→God→{Seek God First, Obey His
+Commands, Constant Communication}). That file is the assessment; this is the map.
+
 ## The coin's four meanings
 
 A **touchstone** (physical weight in the pocket that says this is real), a **gift** (given

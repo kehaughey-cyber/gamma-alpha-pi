@@ -55,6 +55,12 @@ state changes.
   father) in README vs 6-stage (Son/Brother/Husband/Father/King/Elder) in the Forge;
   new vocabulary to adopt or not (Forge/Mine/Bloom metallurgy, Wounded Lion / Excuse
   Maker). `GAP_Seek_Ye_First_Master.docx` reclassified as funnel content (Website/GTM).
+- **Instruments curated (2026-09-01):** `operations/instruments/` holds the flagship NTI
+  `self-assessment.md` (all 45 named aspects + method — richer than the living-coin digest,
+  now cross-linked), `allostatic-audit.md`, and `community-map.md`. Left as products/quarry:
+  the 35k-word Gratitude Journal, the 3-Day Reset and 90-Minute Mission curricula; the
+  community doc's liability waiver + safety plan routed to operations/governance. Still open
+  in operations: **the ledger is not created** (the one number that matters, HANDOFF #5).
 - **Brand curated (2026-09-01):** `brand/assets/` holds the logo vectors
   (primary/transparent/grayscale), favicon, and the canonical `coin-front.png`;
   `brand/brand.md` is the spec (colors `#000000` + GAP blue `#4A73E8` on white). The 3D
