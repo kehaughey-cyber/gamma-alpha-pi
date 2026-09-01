@@ -26,16 +26,25 @@ a brand ink, so the palette above is the digital standard and gold appears only 
 All are vector (paths). The mark is the torch/chalice-and-hourglass with ΓΑΠ, the same
 device at the center of the coin's triangle.
 
-## The coin
+## The coin (both faces)
 
-- `assets/coin-front.png` — the canonical front render (rev3): the gold coin, the triangle
+- `assets/coin-front.png` — the canonical **front** render (rev3): the gold coin, the triangle
   of **Strength / Vision / Love**, the ΓΑΠ hourglass and torch, the compass rose (cardinal
   points plus the symbolic directions), the seasons, and the blue segment ring. This ring is
   the "Living Coin" the companion and corpus reference (`companion/reference/living-coin.md`):
   fifty segments, forty-five visible, five obscured by the triangle and compass points.
+- `assets/coin-back.png` — the canonical **back** render (rev3): the symbolic/scriptural face.
+  **I AM** at the crown (Exodus 3:14); the hand **STANDING IN THE GAP** (Ezekiel 22:30 / Isaiah
+  6:8 at the base); **NOSCE TE IPSUM**; the five cardinal directions ringing the face,
+  **GOD · SELF · FAMILY · COMMUNITY · WITH BROTHERS** (Constitution §1.5); the word for *man*
+  in many tongues (Adam, Hombre, мужчина, 夫, رجل, and more — "the path is worn"); **1024** (the
+  1,024 ancestors of seven generations, cf. `system/forge-journey.md`); and the outer ring of
+  scripture (Ezekiel 22:30, Isaiah 6:8, Exodus 3:14, Matthew 6:33, Romans 10:9-11, Isaiah
+  41:10, 1 Cor 13:4-8, Ephesians 6:10-18, James 2:17, Isaiah 58:6, Ephesians 5:25, John 15:13,
+  Mark 12:30-31). The companion's reading of these is in `companion/system-prompt.md`.
 - **3D source:** `Fraternity/Coin/The raod/Coin rev 3 3d.glb` (~10.5 MB). Left in the quarry
   by design to keep this lane light; pull it into `assets/` only if a collaborator is
-  actually working the 3D model. The coin back and alternate renders are also in the quarry.
+  actually working the 3D model. Alternate renders and photos are also in the quarry.
 
 ## Type
 
