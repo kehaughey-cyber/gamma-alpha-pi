@@ -4,10 +4,22 @@ Instructions and reference that drive the digital guide (the GAP companion / app
 the system prompt, the Big Brother voice references, and the logic for leading a man
 through the walk, handing him tools just in time, and keeping his private record.
 
-Most of this already exists in draft in the old `Fraternity/GAP/` folder
-(system prompt, companion architecture, the Forge user-journey drafts, voice
-references, the layer pipelines). Those are the first thing to curate in here, as
-Markdown, once we do a pass on them.
+Most of this already existed in draft in the old `Fraternity/GAP/` folder. The
+load-bearing pieces are now curated here:
+
+- **`system-prompt.md`** — the runtime brain. Paste-ready. Includes the coin symbolism
+  and I AM sections merged from their addenda. This is the deployable Companion.
+- **`deployment.md`** — how to stand up a working Phase-1 Companion this week (Claude
+  Project or Custom GPT, canon loading order, Wix integration, the five pre-launch tests).
+- **`ai-conduct.md`** — the governing constitution: purposes, sacred boundaries, the
+  governing test. Shared with `governance/`.
+- **`reference/living-coin.md`** — the 45-segment map and coin symbolism digest.
+- **`reference/layer4-intelligence.md`** — the intelligence/finance/tool-pipeline vision,
+  **deferred by design**, kept so it is not lost and not mistaken for the MVP.
+
+Still in the quarry, not yet curated: the Forge user-journey drafts (reconcile against
+`system/user-journey.md`), the voice-reference exemplars and narrative/calling pieces, and
+`GAP_Seek_Ye_First_Master.docx`. See `CONSTELLATION.md`.
 
 ## The five jobs of the companion (from the design)
 1. Lead a man through and hand him tools as he needs them (just-in-time delivery).

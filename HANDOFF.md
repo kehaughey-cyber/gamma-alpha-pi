@@ -32,8 +32,20 @@ state changes.
   scaffolded: `governance/`, `website/`, `brand/`, `operations/instruments/` (README
   stubs, empty by design, ready to fill). Repo is public at
   `github.com/kehaughey-cyber/gamma-alpha-pi` — a collaborator can already see it.
-- Next curation target (Kevin's call): the **companion brain** in `Fraternity/GAP/`
-  is fully drafted and 0% curated into `companion/` — highest-leverage lane.
+- **Companion brain curated (2026-09-01):** `companion/` now holds the deployable
+  runtime `system-prompt.md` (with coin + I AM sections merged from their addenda),
+  `deployment.md` (Phase-1 stand-up), `ai-conduct.md` (governing constitution), and
+  `reference/` (living-coin map; Layer-4 vision marked deferred). A working Phase-1
+  Companion can be stood up from these plus the canon today.
+- Two things surfaced for Kevin: (a) coin geometry — the deployable prompt and both
+  coin addenda say 50 segments / 7.2° / 45 visible; the older architecture doc says
+  45 / 8°, treated as superseded pending Kevin's word. (b) The "segment lights →
+  credential → gates mentorship" idea drifts toward a judge; parked as an open design
+  question, not Phase-1 behavior.
+- Note: `GAP/GAP_System_Prompt.docx` is the **book-rewriting** prompt (authoring tool),
+  not the companion brain — belongs in `tools/`, still to file.
+- Companion tail still in quarry: voice-reference exemplars, narrative/calling entry
+  pieces, and the Forge user-journey drafts (reconcile vs `system/user-journey.md`).
 
 ## Immediate next actions
 

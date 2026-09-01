@@ -65,20 +65,20 @@ How the thing operates. Repo has the two load-bearing docs; the quarry has more.
 
 ### 3. Companion — `companion/` (the app's brain)
 
-**The richest seam and the emptiest lane.** `companion/` holds only its README; the
-`GAP/` folder is a near-complete draft of the companion brain. This is the priority
-curation target (HANDOFF action #3).
+**Was the richest seam and the emptiest lane; the brain is now curated in.** The
+load-bearing companion docs are filed; the voice/narrative tail remains.
 
-| Object | Quarry source | Status |
-|---|---|---|
-| System prompt | `GAP/GAP_System_Prompt.docx` | 🔴 gap |
-| Companion architecture | `GAP/GAP_Companion_Architecture.docx` | 🔴 gap |
-| Phase-1 deploy plan | `GAP/GAP_Companion_Phase1_Deploy_Now.docx` | 🔴 gap |
-| Addenda | `GAP/GAP_Companion_Addendum_Coin_Symbolism.docx`, `..._IAM_Three_Layers.docx` | 🔴 gap |
-| Layer-4 references | `GAP/REFERENCE_GAP_Layer4_{Financial_Stewardship, Operational_Intelligence, Tool_Creation_Pipeline}.docx` | 🔴 gap |
-| AI governance codex | `GAP/GAP_AI_Governance_Codex.docx` (dup at `org/AI Governance Codex.docx`) | 🔴 gap |
-| Voice-reference exemplars | `GAP/Voice_Reference_The_Extension_Cord.docx`, `..._The_Hill_With_The_Ashes.docx`, `GAP/Seek_Ye_First_Master.docx` | 🔴 gap (voice corpus for the guide) |
-| Narrative / calling pieces | `GAP/{I was lost, II want to walk with you, Im tired, From breaking point to purpose, So here to fore, What do you serve, Whats your story, The Founding Call, The general Calling}.docx` | 🔴 gap (companion openings / entry scripts) |
+| Object | In repo | Quarry source | Status |
+|---|---|---|---|
+| Runtime system prompt (+ coin & I AM sections) | `companion/system-prompt.md` | `GAP/GAP_Companion_Phase1_Deploy_Now.docx` + both addenda | ✅ curated |
+| Phase-1 deploy guide | `companion/deployment.md` | `GAP/GAP_Companion_Phase1_Deploy_Now.docx` | ✅ curated |
+| AI conduct constitution | `companion/ai-conduct.md` | `GAP/GAP_AI_Governance_Codex.docx` Part I | ✅ curated |
+| Living Coin map / symbolism | `companion/reference/living-coin.md` | `GAP/GAP_Companion_Architecture.docx` + addenda | ✅ curated |
+| Layer-4 vision (intelligence/finance/tools) | `companion/reference/layer4-intelligence.md` | Codex Parts II–IV + 3 `REFERENCE_GAP_Layer4_*.docx` | ✅ curated as **deferred** |
+| `GAP_System_Prompt.docx` | `tools/` (belongs there) | `GAP/GAP_System_Prompt.docx` | 🔴 misfiled name — it's the **book-rewriting** prompt, an authoring tool, not the companion brain |
+| Voice-reference exemplars | — | `GAP/Voice_Reference_The_Extension_Cord.docx`, `..._The_Hill_With_The_Ashes.docx`, `GAP/Seek_Ye_First_Master.docx` | 🔴 gap (voice corpus for authoring + guide) |
+| Narrative / calling pieces | — | `GAP/{I was lost, II want to walk with you, Im tired, From breaking point to purpose, So here to fore, What do you serve, Whats your story, The Founding Call, The general Calling}.docx` | 🔴 gap (companion openings / entry scripts) |
+| Forge user-journey (v1–v3+updated) | reconcile → `system/user-journey.md` | `GAP/The_Forge_Master_User_Journey_v3_Updated.docx` | 🟡 reconcile |
 
 ### 4. Operations & instruments — `operations/` + a new tools lane
 
