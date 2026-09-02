@@ -579,9 +579,9 @@ You raised your hand.
 
 I received your message. I will be in touch personally within 48 hours.
 
-Between now and then -- sit with the answer you gave to that last question. Whatever you wrote about what is happening in your life right now.
+Between now and then -- go back to the answer you gave to that last question. Whatever you wrote about what is happening in your life right now.
 
-Sit with it. Do not explain it away. Do not fix it in your head before we talk.
+Do not explain it away. Do not fix it in your head before we talk.
 
 Just let it be true for a minute.
 
