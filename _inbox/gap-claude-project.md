@@ -66,14 +66,14 @@ Optimizing systems instead of abandoning · SPINE proof evaluation.
 - **ESV scripture only**, verbatim wording verified.
 - GAP_Project_Record workflow: markdown source → `build_doc.js` → .docx.
 
-## Corpus-state discrepancy to resolve (flagged in the WBS)
+## Corpus-state discrepancy — RESOLVED (2026-09-03)
 
-The Memory (updated ~2026-09-01) says the revoicing state is: **Book of the Coin Rev 1
-complete** (voice benchmark); **Book of the Brother Part 1 (Philosophy) complete** (~66,700
-words, mechanical audit passed); **Field Manual is NEXT (not yet written)**; then NTI,
-Father, King. The repo's `CLAUDE.md`/`HANDOFF.md` claim the **Field Manual is already
-rewritten**. These conflict — the cloud Memory is more recent. Reconcile before trusting the
-repo's corpus status.
+The Memory says the Field Manual is "next (not yet written)." That was **stale**: the Field
+Manual Rev 1 finished **2026-08-30** and is already in the repo
+(`corpus/brother-fieldmanual/brothers-field-manual.md`, regenerated from "The Brothers Field
+Manual Rev 1.docx" — byte-identical). The repo's corpus status (Coin, Brother, Field Manual =
+Rev 1 complete) is correct. **Lesson: the cloud Memory can lag reality — verify its status
+claims against the files before trusting them.**
 
 ---
 

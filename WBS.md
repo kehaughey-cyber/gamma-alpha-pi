@@ -29,8 +29,8 @@ body of work.
 - Book of the Brother, Part 1 (Philosophy) — Rev 1 complete, ~66,700 words, audit passed;
   open items: heading-markup artifact, Epic of Gilgamesh pending, 1 Cor 16:13-14 epigraph
   placement, Carl Sandburg quote copyright clearance. 🟡
-- **Book of the Brother: Field Manual — NEXT, not yet written.** 🔴 **[corpus-state
-  discrepancy: the repo claims this is done; the cloud Memory says it is not — resolve.]**
+- Book of the Brother: Field Manual — **Rev 1 complete (finished 2026-08-30), in the repo.**
+  ✅ (`corpus/brother-fieldmanual/`; the earlier "not done" was a stale cloud-Memory note.)
 - Nosce Te Ipsum, Book of the Father — drafts exist; revoicing pending. 🟡
 - Book of the King (planned; carries the full GAP north-star statement). 🔴
 - Book of the Big Brother — outlined only (`corpus/big-brother/OUTLINE.md`). 🔴 (the guide
@@ -122,7 +122,8 @@ body of work.
 ### Migrate from the cloud GAP project (unmigrated production)
 - Pull **`GAP_Project_Record.docx`**, **`transmission-forge.skill`**, **`verifiers.md`**.
 - Reconcile **Book of the Brother Rev 1 / Book of the Coin Rev 1** (cloud) against the repo
-  corpus. **Resolve the Field-Manual "done vs not-done" discrepancy first.**
+  corpus. (The Field-Manual "done vs not-done" question is resolved — Rev 1 finished 2026-08-30
+  and is in the repo.)
 - Mine the high-value chats (parallel products, workbooks, transmission, handshake, Threshold).
 - Adopt the hard rules repo-wide: **zero em/en dashes, ESV-only scripture.**
 

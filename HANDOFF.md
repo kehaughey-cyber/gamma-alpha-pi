@@ -130,9 +130,11 @@ in `_inbox/gap-claude-project.md`; the full nested plan is in `WBS.md`. Highligh
 - **New bodies of work not in the repo:** transmission theory (3 laws), the **Threshold
   Reading** (~30–40pp pre-mine entry), the Book of the King, audiobook/video roadmap, Etsy
   product analysis.
-- **⚠️ Corpus-state discrepancy:** the cloud Memory (more recent) says the **Field Manual is
-  NOT yet rewritten** (it is "next"), while this repo's CLAUDE.md/HANDOFF claim books 1–3 are
-  done. **Resolve before trusting the repo's corpus status.**
+- **Corpus-state discrepancy — RESOLVED (2026-09-03):** the Field Manual Rev 1 finished
+  2026-08-30 and is already in the repo (`corpus/brother-fieldmanual/brothers-field-manual.md`,
+  regenerated from "The Brothers Field Manual Rev 1.docx", byte-identical). The repo's
+  books-1–3-done status is correct; the cloud Memory was simply stale on this point (so treat
+  other cloud-Memory status claims as possibly stale too).
 - **Hard content rules stated there:** zero em/en dashes; ESV scripture only, verbatim.
 
 ## The one metric that matters
