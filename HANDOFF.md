@@ -80,6 +80,13 @@ state changes.
   needs the Wix login. Step 4 is now an **implementation gap, not a content gap** — the
   plan's "before publishing the video" list is <2 hrs of Wix work. Still to curate: the WBS
   program-of-work and launch copy (Seek Ye First, Marketing/), mined as needed.
+- **WP1 partly executed live in Wix (2026-09-03):** the "You knocked." autoresponse is built
+  and **ACTIVE** (Automations → "Join Us autoresponse — You knocked", trigger: Application
+  Form). The Join Us sorting question was reworded to the plan's version and made required;
+  submit button was already "Take the First Step." Remaining WP1 is the canvas work (video
+  embed, door/Knock CTA, resequence Program List → The Journey) — tracked with click-paths
+  in `website/wix-checklist.md`. Open: confirm the live Join Us page uses the new Application
+  Form (there is also one Old Form). Note: never use "sit with" in copy ([[avoid-phrase-sit-with-it]]).
 - **Brand curated (2026-09-01):** `brand/assets/` holds the logo vectors
   (primary/transparent/grayscale), favicon, and the canonical `coin-front.png`;
   `brand/brand.md` is the spec (colors `#000000` + GAP blue `#4A73E8` on white). The 3D

@@ -28,6 +28,8 @@ container. `channels.md` is the checklist for the Step-4 copy/content audit.
   strong alignment, one tension to settle (the life-arc framing on the About page), and the
   live-page verification that needs the Wix login.
 - **`channels.md`** — the live public surfaces (site + YouTube/TikTok/Facebook/Discord).
+- **`wix-checklist.md`** — WP1 implementation tracker: what's live (Join Us form reworded +
+  required, "You knocked." autoresponse ACTIVE) and the canvas parts still to do by hand.
 
 ## Still to curate when the need is live
 - **Program of work** — `WBS for creating a global fraternity.docx` (broader than the site).
