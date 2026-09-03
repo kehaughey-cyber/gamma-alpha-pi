@@ -121,6 +121,20 @@ Layer-4) is explicitly deferred there.
 5. ~~Stand up the `operations/` ledger.~~ Done — `operations/ledger.md` + `ledger-template.csv`
    (template only; live data private off-repo). Kevin to fill the private copy for the three.
 
+## Surfaced from the cloud GAP project (2026-09-03)
+
+Kevin's claude.ai **GAP** project holds a lot of production the repo never got. Captured raw
+in `_inbox/gap-claude-project.md`; the full nested plan is in `WBS.md`. Highlights:
+- **Cloud-only, pull them:** `GAP_Project_Record.docx` (the production log), and
+  `transmission-forge.skill` + `verifiers.md` (a built transmission-theory framework).
+- **New bodies of work not in the repo:** transmission theory (3 laws), the **Threshold
+  Reading** (~30–40pp pre-mine entry), the Book of the King, audiobook/video roadmap, Etsy
+  product analysis.
+- **⚠️ Corpus-state discrepancy:** the cloud Memory (more recent) says the **Field Manual is
+  NOT yet rewritten** (it is "next"), while this repo's CLAUDE.md/HANDOFF claim books 1–3 are
+  done. **Resolve before trusting the repo's corpus status.**
+- **Hard content rules stated there:** zero em/en dashes; ESV scripture only, verbatim.
+
 ## The one metric that matters
 
 Does a little brother become a big brother. That is the loop closing. Everything

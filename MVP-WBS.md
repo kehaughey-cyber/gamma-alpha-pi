@@ -6,8 +6,10 @@ scaffolding — councils, elections, chapters, alumni, expansion). This is the h
 smallest set of deltas that lets a man who does not already know Kevin walk the loop, and
 lets us *see* whether it closes.
 
-Read with `HANDOFF.md` (state) and `CONSTELLATION.md` (what exists). Owners: **K** Kevin,
-**C** collaborator, **A** AI-assist (me, where a login or a human is not required).
+Read with `HANDOFF.md` (state) and `CONSTELLATION.md` (what exists). For how this hull nests
+inside the full 11-section fraternity WBS (and the outstanding tasks across both), see
+`WBS.md`. Owners: **K** Kevin, **C** collaborator, **A** AI-assist (me, where a login or a
+human is not required).
 
 ## What MVP is (the done-test)
 
